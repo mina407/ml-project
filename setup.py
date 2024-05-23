@@ -19,6 +19,6 @@ version="0.0.1" ,
 author= 'Mina' , 
 author_email='minayousry747@gmail.come',
 packages=find_packages(),
-install_requires = get_requirements("requirements.txt")
+install_requires = get_requirements("requirements.txt"),
 
 )
